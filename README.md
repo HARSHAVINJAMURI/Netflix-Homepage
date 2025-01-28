@@ -54,46 +54,45 @@ To run this project locally:
 ---
 
 ## Usage
-Launch the index.html file in a web browser.
-Explore the page features:
-Language Selector: Switch between English and Telugu.
-Email Input: Enter an email and click "Get Started."
-Sign-In Button: Placeholder for sign-in functionality.
+- Launch the index.html file in a web browser.
+- Explore the page features:
+- Language Selector: Switch between English and Telugu.
+- Email Input: Enter an email and click "Get Started."
+- Sign-In Button: Placeholder for sign-in functionality.
 
 ---
 
 ## Screenshots
-Homepage
-
-Subscription Form
+- Homepage
+- Subscription Form
 
 ---
 
 ## Code and Resources Used
-HTML/CSS for layout and styling.
-Netflix Logo from online resources.
-Favicon created using Favicon.io.
+- HTML/CSS for layout and styling.
+- Netflix Logo from online resources.
+- Favicon created using Favicon.io.
 
 ---
 
 ## Requirements
-A modern web browser that supports HTML5 and CSS3.
+- A modern web browser that supports HTML5 and CSS3.
 
 ---
 
 ## Directory Structure
 
 netflix-homepage-clone/
-├── index.html         # Main HTML file
-├── Netflix.css        # CSS styling file
-├── netflix-logo.png   # Netflix logo used in the navbar
-├── netflix.ico        # Favicon for browser tab
+-- ├── index.html         # Main HTML file
+-- ├── Netflix.css        # CSS styling file
+-- ├── netflix-logo.png   # Netflix logo used in the navbar
+-- ├── netflix.ico        # Favicon for browser tab
 
 ---
 
 ## Author
 Harsha Vinjamuri ❤️
-Netflix Homepage Clone crafted with care.
+- Netflix Homepage Clone crafted with care.
 
 
-If you need further changes or enhancements, feel free to ask!
+-- If you need further changes or enhancements, feel free to ask!
