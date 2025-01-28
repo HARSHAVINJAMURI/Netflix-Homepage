@@ -83,10 +83,10 @@ To run this project locally:
 ## Directory Structure
 
 netflix-homepage-clone/
--- ├── index.html         # Main HTML file
--- ├── Netflix.css        # CSS styling file
--- ├── netflix-logo.png   # Netflix logo used in the navbar
--- ├── netflix.ico        # Favicon for browser tab
+- ├── index.html         # Main HTML file
+- ├── Netflix.css        # CSS styling file
+- ├── netflix-logo.png   # Netflix logo used in the navbar
+- ├── netflix.ico        # Favicon for browser tab
 
 ---
 
@@ -95,4 +95,4 @@ Harsha Vinjamuri ❤️
 - Netflix Homepage Clone crafted with care.
 
 
--- If you need further changes or enhancements, feel free to ask!
+- If you need further changes or enhancements, feel free to ask!
